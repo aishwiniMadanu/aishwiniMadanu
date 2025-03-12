@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-I've started working on a schedule builder with a club and am learning Javascript and Python. You can reach me at aishwini@gmail.com. A fun fact about me: I can play the cello and figure skate!
-
-
 <!--
 **aishwiniMadanu/aishwiniMadanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
